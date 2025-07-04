@@ -1,5 +1,12 @@
-# Shopping-Behavior-EDA 
+# Shopping-Behavior-EDA
+
 # Final Summary and Recommendations
+
+---
+
+## Summary
+
+This project analyzed customer purchase data to uncover key trends in demographics, product preferences, and payment behaviors. The insights provide a solid foundation for targeted marketing and strategic business decisions.
 
 ---
 
@@ -23,7 +30,13 @@
 
 ---
 
-## Suggested Additional Analyses
+## What You Achieved
 
-1. Correlation Heatmap  
-   To show how strongly numeric fields (like age, purchase amount, rating, previous purc
+- Cleaned and understood customer purchase data.  
+- Visualized key behaviors such as age, gender, location, seasonality, and preferences.  
+- Gained strategic insights into what, how, and when people buy.  
+- Built a foundation for further predictive analytics like customer segmentation or churn prediction.
+
+---
+
+This project demonstrates strong foundational skills in exploratory data analysis and lays the groundwork for future enhancements, such as predictive modeling and interactive dashboards.
